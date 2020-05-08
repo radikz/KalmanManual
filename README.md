@@ -1,6 +1,6 @@
 # KalmanManual
 
-This is an example implementation of kalman filter. This tutorial make prediction 1000 data random. <br>
+This is an example implementation of kalman filter. This tutorial make prediction of 1000 data random. <br>
 <img src="kalman.jpg" alt="kalman">
 
 For further details of kalman filter, you can visit this site.
